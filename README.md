@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning JavaScript 
 - 📫 How to reach me t.me/JanobTarixchiDev 
 - 😄 Pronouns
-- ⚡ Fun fact
+- ⚡ Last Update (28.05.2024)
+
 
 <!---
 janobtarixchi/janobtarixchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
