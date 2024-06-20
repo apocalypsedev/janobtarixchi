@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript 
 - 📫 How to reach me t.me/JanobTarixchiDev 
 - 😄 Pronouns
-- ⚡ Last Update (28.05.2024)
+- ⚡ Last Update (20.06.2024)
 
 
 <!---
