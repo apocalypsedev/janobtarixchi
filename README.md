@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @janobtarixchi
+- 👋 Hi, I’m @apocalypseDev
 - 👀 I’m interested in Web creating 
 - 🌱 I’m currently learning JavaScript 
-- 📫 How to reach me t.me/JanobTarixchiDev 
+- 📫 How to reach me t.me/ApocalypseDev
 - 😄 Pronouns
-- ⚡ Last Update (23.06.2024)
+- ⚡ Last Update (27.06.2024)
 
 
 <!---
